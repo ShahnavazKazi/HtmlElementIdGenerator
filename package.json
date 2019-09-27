@@ -1,0 +1,11 @@
+{
+  "name": "HtmlElementIdGenerator",
+  "description": "Sample application demonstrate how to auto generate missing html element ids in give file(s)",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "path": "^0.12.7",
+    "gulp-replace": "^1.0.0"
+  }
+}
